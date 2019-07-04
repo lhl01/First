@@ -1,0 +1,4 @@
+<!--pages/chat/chat.wxml-->
+<view class="chat-page">
+<text class="chat-font">聊天界面</text>
+</view>

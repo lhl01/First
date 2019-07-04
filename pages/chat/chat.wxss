@@ -1,0 +1,10 @@
+/* pages/chat/chat.wxss */
+.chat-page{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.chat-font{
+  margin-top: 10px;
+  color:cornflowerblue;
+}

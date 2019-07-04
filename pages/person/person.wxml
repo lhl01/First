@@ -1,0 +1,4 @@
+<!--pages/person/person.wxml-->
+<view class="person-page">
+    <text class="person-font">个人主页界面</text>
+</view>

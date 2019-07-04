@@ -1,0 +1,10 @@
+/* pages/person/person.wxss */
+.person-page{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.person-font{
+   margin-top: 10px;
+   color:cornflowerblue;
+}

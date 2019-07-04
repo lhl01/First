@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/person/person",
+    "pages/chat/chat"
+  ],
+  "tabBar":{
+    "list":[{
+      "pagePath":"pages/chat/chat",
+      "text":"聊天",
+      "iconPath":"/images/c1.png",
+      "selectedIconPath":"/images/c2.png"
+    },
+    {
+      "pagePath": "pages/index/index",
+      "text": "主页",
+      "iconPath": "/images/h1.png",
+      "selectedIconPath": "/images/h2.png"
+    },
+    {
+      "pagePath": "pages/person/person",
+      "text": "个人中心",
+      "iconPath": "/images/p1.png",
+      "selectedIconPath": "/images/p2.png"
+    }]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#90EE90",
+    "navigationBarTitleText": "你好",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}
